@@ -35,6 +35,7 @@ public class ClienteEmpDTO extends PersonaDTO{
         this.numAdultos = numAdultos;
         this.numKids = numKids;
         this.numMayores = numMayores;
+        this.hotel = hotel;
         this.alimentacion = alimentacion;
         this.transporteLocal = transporteLocal;
         this.guia = guia;
@@ -54,6 +55,7 @@ public class ClienteEmpDTO extends PersonaDTO{
         this.numAdultos = numAdultos;
         this.numKids = numKids;
         this.numMayores = numMayores;
+        this.hotel = hotel;
         this.alimentacion = alimentacion;
         this.transporteLocal = transporteLocal;
         this.guia = guia;

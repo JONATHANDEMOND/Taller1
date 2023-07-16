@@ -1,5 +1,5 @@
 
-package com.my.company.controlador;
+package com.mycompany.controlador;
 
 import java.awt.event.KeyEvent;
 
