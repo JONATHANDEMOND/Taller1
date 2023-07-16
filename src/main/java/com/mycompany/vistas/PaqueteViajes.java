@@ -779,7 +779,7 @@ public class PaqueteViajes extends javax.swing.JFrame {
             }
 
         } catch (NullPointerException e) {
-            JOptionPane.showMessageDialog(null, "Elija una fecha", "ERROR", JOptionPane.ERROR_MESSAGE);
+            JOptionPane.showMessageDialog(null, "CAMPOS INCOMPLETOS");
         }
 
 
